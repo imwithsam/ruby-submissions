@@ -381,7 +381,7 @@ The output from rake sanitation:all shows…
 
 Team: Samson Brock
 
-Github Repo:
+Github Repo: https://github.com/imwithsam/sales_engine
 
 Assessed By:
 
